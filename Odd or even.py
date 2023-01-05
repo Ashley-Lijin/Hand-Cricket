@@ -7,6 +7,7 @@ import random
 code for num 0 to 10
 '''
 # data
+
 num = []
 for number in range(0, 11):
     num.append(number)
